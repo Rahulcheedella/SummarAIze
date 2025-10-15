@@ -64,3 +64,6 @@ venv/Scripts/activate
 python app.py
 ```
 
+## Result is the Following page:
+
+Visit the Page: https://summaraize-1hgt.onrender.com/
